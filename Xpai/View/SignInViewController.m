@@ -72,8 +72,8 @@
     self.passwordTextField.delegate = self;
     
     self.serviceCodeTextField.text = @"BDGFIGSL";
-    self.accountTextField.text = @"001";
-    self.passwordTextField.text = @"001";
+//    self.accountTextField.text = @"001";
+//    self.passwordTextField.text = @"001";
 }
 
 
